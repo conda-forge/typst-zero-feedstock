@@ -1,5 +1,5 @@
 context:
-  version: "0.6.1"
+  version: "0.7.1"
 
 package:
   name: typst-zero
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/Mc-Zen/zero/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: d1b957d1e9b5905aacdb5e93e4fe0f2a13abff15c2ae33bab2c27a847eb277c4
+  sha256: 4c6a164c1ef05d0a07c9a816f1c1ba0e511748fe463ec99365a719e930002bba
 
 build:
   number: 0
